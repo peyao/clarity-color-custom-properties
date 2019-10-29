@@ -1,4 +1,4 @@
-# clarity-color-palette-variables
+# clarity-color-custom-properties
 Clarity Design color palette as CSS custom properties
 
 usage:
